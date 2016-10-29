@@ -1,0 +1,22 @@
+{
+  "name": "simple-proj-setup",
+  "version": "1.0.0",
+  "description": "This is a simple project created from scratch using elm and electron and based on best practices to create a project instead of using a ready template. see https://github.com/johnomarkid/elm-electron-webpack/blob/master/README.md",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "elm-simple-project-setup"
+  },
+  "keywords": [
+    "elm",
+    "electron",
+    "javascript",
+    "project",
+    "setup"
+  ],
+  "author": "Yaniv Levi",
+  "license": "UNLICENSED"
+}
