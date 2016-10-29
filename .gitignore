@@ -1,0 +1,14 @@
+/node_modules
+bundle.js
+npm-debug.log
+
+# IntelliJ
+*.iml
+/.idea
+
+# elm-package generated files
+elm-stuff
+# elm-repl generated files
+repl-temp-*
+
+dist

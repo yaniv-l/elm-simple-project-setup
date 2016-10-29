@@ -18,5 +18,8 @@
     "setup"
   ],
   "author": "Yaniv Levi",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "dependencies": {
+    "elm-webpack-loader": "^3.0.6"
+  }
 }
