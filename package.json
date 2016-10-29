@@ -19,7 +19,13 @@
   ],
   "author": "Yaniv Levi",
   "license": "UNLICENSED",
+  "devDependencies": {
+    "elm-webpack-loader": "^3.0.6",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2"
+  },
   "dependencies": {
-    "elm-webpack-loader": "^3.0.6"
+    "elm-webpack-loader": "^3.0.6",
+    "webpack": "^1.13.3"
   }
 }
